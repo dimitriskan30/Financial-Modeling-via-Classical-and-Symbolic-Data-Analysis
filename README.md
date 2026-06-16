@@ -1,0 +1,2 @@
+# Financial-Modeling-via-Classical-and-Symbolic-Data-Analysis
+This repository contains a comprehensive financial data analysis project that evaluates and models the relationship between the Dow Jones (DIA) and its key constituent stocks. The project contrasts traditional point-data statistical methods with advanced Symbolic Data Analysis (SDA) techniques, specifically utilizing interval-valued observations.
